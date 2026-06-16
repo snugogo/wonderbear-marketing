@@ -1,6 +1,6 @@
 # WonderBear — Marketing Assets
 
-**AI-Powered Children's Education | 33 Languages | TV + Mobile**
+**AI-Powered Children's Education | 75 Voice Languages · 33 UI · 15 Literacy | TV + Mobile**
 
 > Personalized storybooks. Structured literacy. Voice AI that speaks every language.
 
@@ -32,6 +32,7 @@ AI-generated 10-page illustrated books with bilingual narration
 
 | File | Description |
 |------|-------------|
+| `docs/language-support.md` | **支持语言表 / Language Support** — 75 语音语言 (33 已接) · 15 识字 · ASR/TTS/CLASS 口径 |
 | `docs/product-introduction.md` | **产品介绍（中英文）/ Product Introduction (ZH+EN)** — 硬件规格 + 核心功能 + 定价 + 营销标语 |
 | `docs/functional-spec.md` | Full bilingual feature spec (Chinese + English) |
 | `docs/feature-highlights-en.md` | English marketing copy |
@@ -45,9 +46,9 @@ AI-generated 10-page illustrated books with bilingual narration
 **WonderBear** is an AI children's education product built into a smart projector (HY260). Children aged 3–8 talk with a bear character, which builds a personalized illustrated storybook from their ideas.
 
 **Key Features:**
-- 🐻 **AI Dialogue** — 33-language voice conversation (Whisper ASR + Azure/CosyVoice TTS)
+- 🐻 **AI Dialogue** — 75-language voice (33 active) conversation (Whisper ASR + Azure/CosyVoice TTS)
 - 📖 **AI Storybook** — 10-page illustrated books with bilingual narration, generated in minutes
-- 🏫 **Bear Class** — PEP-aligned Chinese 500-char curriculum + English phonics + 13 languages
+- 🏫 **Bear Class** — 15-language literacy curriculum (native phonics per language), Chinese PEP 500-char + English phonics + 13 more
 - 🌍 **33 UI Languages** — Full localization for global markets
 - 📱 **H5 Companion** — Web version at h5.bvtuber.com
 
