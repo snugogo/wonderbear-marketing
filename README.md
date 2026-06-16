@@ -1,5 +1,12 @@
 # WonderBear — Marketing Assets
 
+<p align="center">
+  <img src="marketing-scenes/hd-version.png" alt="WonderBear — The AI Storybook Projector" width="520"/>
+</p>
+
+> 主图 / Main product image: `marketing-scenes/hd-version.png`
+
+
 **AI-Powered Children's Education | 75 Voice Languages · 33 UI · 15 Literacy | TV + Mobile**
 
 > Personalized storybooks. Structured literacy. Voice AI that speaks every language.
