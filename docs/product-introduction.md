@@ -73,7 +73,10 @@ Our signature **free** picture-word literacy program, built to authoritative pre
 - **闭环学习 / A learning loop**：孩子用刚学会的字去共创新故事——学完即用，识字与创作打通。
   *Children reuse the words they just learned to co-create new stories — learn it, then use it.*
 
-> 支持语种 / Languages: 中文 · English · Español · Français · Deutsch · Italiano · Português · 日本語 · 한국어 · ไทย · Tiếng Việt · العربية · Polski · Română · Русский
+> 识字课程语种（15）/ Literacy languages (15): 中文 · English · Español · Français · Deutsch · Italiano · Português · 日本語 · 한국어 · ไทย · Tiếng Việt · العربية · Polski · Română · Русский
+>
+> 语音/UI 覆盖更广：语音 75 种（33 已接）、UI 33 种。完整对照见 [`language-support.md`](language-support.md)。
+> *Voice/UI reach further: 75 voice langs (33 active), 33 UI langs. Full table: [`language-support.md`](language-support.md).*
 
 ### 2. 故事馆 / Story Library
 
@@ -86,6 +89,11 @@ A growing library of beautifully illustrated, narrated storybooks. Target litera
 为儿童精心设计的**讲故事智能体**，帮助孩子共创故事。孩子说话，AI 引导、提问、把想法编织成完整故事框架。**AI 语音功能永久免费。**
 
 A storytelling AI agent designed for children that helps them co-create stories. The child talks; the AI guides, asks, and weaves their ideas into a complete story. **The AI voice feature is free forever.**
+
+- **多语言 / Multilingual**：AI 语音讲故事支持 **75 种语言**（33 种已接入，其余加一行声音映射即可启用）。
+  *AI voice storytelling supports **75 languages** (33 active; the rest are one mapping line away).*
+- **语言怎么定 / How language is set**：用户在 **H5 注册页选择语言** → 设备 AI 语音即用该语言讲故事；在 **TV 界面也可随时手动切换**语言，**最终以 TV UI 当前语言为准**。
+  *Users pick their language on the **H5 registration page** → the device tells stories in that language. They can also **switch anytime on the TV**, and the **current TV UI language always takes final precedence**.*
 
 ### 4. 免费赠送一本绘本 / One Free Storybook
 
