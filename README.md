@@ -1,10 +1,11 @@
 # WonderBear — Marketing Assets
 
 <p align="center">
-  <img src="marketing-scenes/hd-version.png" alt="WonderBear — The AI Storybook Projector" width="520"/>
+  <img src="marketing-scenes/welcome.png" alt="WonderBear — Speak. Draw. Together." width="640"/>
 </p>
 
-> 主图 / Main product image: `marketing-scenes/hd-version.png`
+> 主视频图 / 品牌主视觉 · Key Visual & Video Cover: `marketing-scenes/welcome.png`
+> 产品主图 / Main product image: `marketing-scenes/hd-version.png`
 
 
 **AI-Powered Children's Education | 75 Voice Languages · 33 UI · 15 Literacy | TV + Mobile**

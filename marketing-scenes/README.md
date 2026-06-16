@@ -4,7 +4,7 @@ WonderBear (HY260 Pro) 产品介绍设计用场景参考图，按场景命名 / 
 
 | 文件 / File | 场景 / Scene |
 |---|---|
-| `welcome.png` | 欢迎 / 首屏氛围 |
+| `welcome.png` | **★ 主视频图 / KEY VISUAL** — 品牌主视觉 (WonderBear · Speak. Draw. Together.) |
 | `device with rc.png` | 设备 + 蓝牙语音遥控器 |
 | `hd-version.png` | **★ 主图 / MAIN IMAGE** — 设备白底产品图 (HD) |
 | `bedroom.png` | 卧室睡前亲子投影 |
