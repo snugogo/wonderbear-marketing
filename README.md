@@ -32,6 +32,7 @@ AI-generated 10-page illustrated books with bilingual narration
 
 | File | Description |
 |------|-------------|
+| `docs/product-introduction.md` | **产品介绍（中英文）/ Product Introduction (ZH+EN)** — 硬件规格 + 核心功能 + 定价 + 营销标语 |
 | `docs/functional-spec.md` | Full bilingual feature spec (Chinese + English) |
 | `docs/feature-highlights-en.md` | English marketing copy |
 | `docs/feature-highlights-zh.md` | Chinese marketing copy |
@@ -49,5 +50,15 @@ AI-generated 10-page illustrated books with bilingual narration
 - 🏫 **Bear Class** — PEP-aligned Chinese 500-char curriculum + English phonics + 13 languages
 - 🌍 **33 UI Languages** — Full localization for global markets
 - 📱 **H5 Companion** — Web version at h5.bvtuber.com
+
+
+**Hardware Highlights / 硬件亮点:**
+- 🤖 **Android 14** · Allwinner **H713** · 1GB + 8GB
+- 🔆 **200 ANSI Lumens** · **1920×1080P** Full HD · Auto Focus · 180° rotation
+- 📡 Wi-Fi 2.4G + 5G + Bluetooth · **HDMI-IN** · USB · Bluetooth voice remote
+- 📱 Built-in iOS & Android screen mirroring · YouTube TV
+- ✅ Global certifications: **CE / FCC / UL / UKCA**
+
+→ Full bilingual product introduction: [`docs/product-introduction.md`](docs/product-introduction.md)
 
 **Repository:** [snugogo/wonderbear](https://github.com/snugogo/wonderbear)
