@@ -17,5 +17,4 @@ WonderBear (HY260 Pro) 产品介绍设计用场景参考图，按场景命名 / 
 | `storytellerg.png` | 讲故事 · 女孩 |
 | `book.png` | 绘本 / 实体书 |
 | `fantasy.png` | 奇幻故事场景 |
-| `edited_20260614_010405.png` | 场景图 (待命名) |
-| `device.jpeg` | 设备小图 (低分辨率, 仅占位) |
+| `livingroom-cn.png` | 客厅家庭场景 · 中文 |
