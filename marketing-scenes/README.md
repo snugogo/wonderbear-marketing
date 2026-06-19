@@ -8,6 +8,7 @@ WonderBear (HY260 Pro) 产品介绍设计用场景参考图，按场景命名 / 
 | `device with rc.png` | 设备 + 蓝牙语音遥控器 |
 | `hd-version.png` | **★ 主图 / MAIN IMAGE** — 设备白底产品图 (HD) |
 | `bedroom.png` | 卧室睡前亲子投影 |
+| `bed-story.png` | 卧室天花板投影 · 妈妈+孩子睡前共看 |
 | `livingroom.png` | 客厅家庭场景 |
 | `party.png` | 派对 / 多人围观 |
 | `kindergarden.png` | 幼儿园 / 教室 |
