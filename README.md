@@ -70,4 +70,4 @@ AI-generated 10-page illustrated books with bilingual narration
 
 → Full bilingual product introduction: [`docs/product-introduction.md`](docs/product-introduction.md)
 
-**Repository:** [snugogo/wonderbear](https://github.com/snugogo/wonderbear)
+
